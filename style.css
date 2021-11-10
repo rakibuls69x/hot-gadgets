@@ -1,0 +1,74 @@
+#banner{
+    padding: 40px 40px;
+}
+.price{
+    color: rgba(255, 136, 0, 0.966);
+}
+.buy-now{
+    background-color: black;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 7px;
+    border: none;
+    text-align: center;
+}
+#bannercarousel{
+    background-image: url("bg-1.png");
+    background-repeat: no-repeat;
+    background-position: initial;
+    
+}
+#bannercarousel-2{
+    background-image: url("bg-2.png");
+    background-repeat: no-repeat;
+    background-position: -30%, 20%, 10%, 20%;
+}
+#buttoncenter{
+    text-align: center;
+}
+#productdetails{
+    text-align: center;
+}
+#box-shadow{
+    border: none;
+    box-shadow:5px 5px 13px darkgray;
+    border-radius: 20px;
+}
+#products{
+    margin-bottom: 100px;
+    padding: 20px;
+}
+#bannerprice{
+    margin-bottom: 30px;
+}
+#catagories{
+    text-align: center;
+    margin: auto;
+}
+.pbold{
+    font-size: 70px;
+    margin: auto;
+}
+#mbox-shadow{
+    border: none;
+    box-shadow:5px 5px 13px darkgray;
+    border-radius: 20px;
+    height: 200px;
+    width: 200px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+#lastimg{
+    width: 60%;
+}
+#iphone{
+    width: 100px;
+}
+.ctg{
+    text-decoration: none;
+    color: white;
+}
+footer{
+    text-align: center;
+    margin-bottom: 30px;
+}
